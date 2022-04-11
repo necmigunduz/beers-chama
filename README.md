@@ -1,24 +1,23 @@
 # Tic-Tac-Toe
 
-This is a game app. Tic-Tac-Toe is an old game. Two players plae X and O symbols on a board and a player needs to be able to cover a whole row or a whole column or cells cross from left to right or right to left with his or her symbol.
+This is a simple search app. A user can enter a word into search bar to search for beers' names including this entry.
 
-![screenshot](https://github.com/necmigunduz/react-tic-tac-toe/blob/master/assets/screenshot.png)
+![screenshot](https://github.com/necmigunduz/beers-chama/blob/master/screenshot.png)
 
 ## Built With
 
-- React.js,
-- Redux,
-- styled-components.
+- Vue.js,
+- Vuetify.
 
 ## Getting Started
 
-- `git clone git@github.com:necmigunduz/react-tic-tac-toe.git`
-- `cd react-tic-tac-toe`
+- `git git@github.com:necmigunduz/beers-chama.git`
+- `cd beers-chama`
 - `npm install`
-- `npm start`
+- `npm run serve`
 
 ## Deployed Version of App on Netlify
-- Netlify link: [Netlify](https://tic-tac-toe-react-necm.netlify.app/)
+- Netlify link: [Netlify Link](https://beers-chamaileon.netlify.app/)
 
 ## Author
 
