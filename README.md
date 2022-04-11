@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# Search-Beer
 
 This is a simple search app. A user can enter a word into search bar to search for beers' names including this entry.
 
